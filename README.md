@@ -29,8 +29,8 @@ You will also need an API key for the Google Generative AI service.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-jervice.git
-   cd project-jervice
+   git clone https://github.com//KUMARESAN-PANDA/JERVICE_USING_GEMINI_API_KEY.git
+   cd project-JERVICE_USING_GEMINI_API_KEY
    ```
 
 2. Install the required packages:
